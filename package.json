@@ -1,0 +1,38 @@
+{
+  "name": "ui-modules-cli",
+  "version": "1.0.0",
+  "description": "ui-modules-cli on frontend relbas",
+  "main": "ui-modules-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "module",
+    "bootstrap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Womhla6s/ui-modules-cli.git"
+  },
+  "author": "Womhla6s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Womhla6s/ui-modules-cli/issues"
+  },
+  "homepage": "https://github.com/Womhla6s/ui-modules-cli#readme",
+  "dependencies": {
+    "ui-modules-rl": "^1.0.0",
+    "ui-fronend-relabs": "^1.0.0",
+    "ui-modules-reverse": "^1.0.0",
+    "ui-modules-rlpopup": "^1.0.0",
+    "ui-modules-rlapi": "^1.0.0",
+    "ui-modules-rlswitch": "^1.0.0",
+    "ui-modules-rlexchange": "^1.0.0",
+    "ui-modules-rlmenu": "^1.0.0",
+    "ui-modules-rllogin": "^1.0.0",
+    "ui-modules-rllogout": "^1.0.0",
+    "ui-modules-rlregister": "^1.0.0"
+  }
+}
