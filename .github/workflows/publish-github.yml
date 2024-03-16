@@ -20,7 +20,7 @@ jobs:
             node-version: '20.x'
             registry-url: https://npm.pkg.github.com/
         - run: |
-            echo "@libphamton:registry=https://npm.pkg.github.com" >> .npmrc
+            echo "@Womhla6s:registry=https://npm.pkg.github.com" >> .npmrc
             echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" >> .npmrc
         - run: npm publish
           env:

@@ -4,23 +4,9 @@
 # https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
 
 version: 2
-registries:
-    npmjs:
-        type: npm-registry
-        url: https://registry.npmjs.org
-    npm-github:
-        type: npm-registry
-        url: https://npm.pkg.github.com
-        token: ${{ secrets.NPM_TOKEN }}
 updates:
-    - package-ecosystem: github-actions
-      directory: /
-      schedule:
-          interval: daily
-    - package-ecosystem: npm
-      registries:
-          - npmjs
-          - npm-github
-      directory: /
-      schedule:
-          interval: weekly
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
+`
