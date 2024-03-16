@@ -1,6 +1,6 @@
 {
-  "name": "ui-modules-cli",
-  "version": "1.0.1",
+  "name": "@womhla6s/ui-modules-cli",
+  "version": "1.0.2",
   "description": "ui-modules-cli on frontend relbas",
   "main": "ui-modules-cli.js",
   "scripts": {
@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Womhla6s/ui-modules-cli.git"
+    "url": "https://github.com/womhla6s/ui-modules-cli.git"
   },
-  "author": "Womhla6s",
+  "author": "womhla6s",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Womhla6s/ui-modules-cli/issues"
+    "url": "https://github.com/womhla6s/ui-modules-cli/issues"
   },
-  "homepage": "https://github.com/Womhla6s/ui-modules-cli#readme",
+  "homepage": "https://github.com/womhla6s/ui-modules-cli#readme",
   "dependencies": {
 
   }
