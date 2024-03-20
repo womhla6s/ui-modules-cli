@@ -1,6 +1,6 @@
 {
   "name": "@womhla6s/ui-modules-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ui-modules-cli on frontend relbas",
   "main": "ui-modules-cli.js",
   "scripts": {
@@ -23,16 +23,6 @@
   },
   "homepage": "https://github.com/womhla6s/ui-modules-cli#readme",
   "dependencies": {
-    "ui-modules-rl": "^1.0.0",
-    "ui-fronend-relabs": "^1.0.0",
-    "ui-modules-reverse": "^1.0.0",
-    "ui-modules-rlpopup": "^1.0.0",
-    "ui-modules-rlapi": "^1.0.0",
-    "ui-modules-rlswitch": "^1.0.0",
-    "ui-modules-rlexchange": "^1.0.0",
-    "ui-modules-rlmenu": "^1.0.0",
-    "ui-modules-rllogin": "^1.0.0",
-    "ui-modules-rllogout": "^1.0.0",
-    "ui-modules-rlregister": "^1.0.0"
+    "ui-modules-cli": "^1.0.0"
   }
 }
