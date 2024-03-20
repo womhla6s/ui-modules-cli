@@ -1,6 +1,6 @@
 {
   "name": "@womhla6s/ui-modules-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ui-modules-cli on frontend relbas",
   "main": "ui-modules-cli.js",
   "scripts": {
